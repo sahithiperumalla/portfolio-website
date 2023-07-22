@@ -3,5 +3,6 @@
 ![coder](https://github.com/sahithiperumalla/portfolio-website/assets/109752174/c8af743d-9674-4f53-9f70-14113175d490)
 ![bannerimage](https://github.com/sahithiperumalla/portfolio-website/assets/109752174/51200fb5-01fd-456f-9d72-7cd433592956)
 ![facebook](https://github.com/sahithiperumalla/portfolio-website/assets/109752174/734e0738-6669-483b-b01a-fdfed984e213)
+![linkedin](https://github.com/sahithiperumalla/portfolio-website/assets/109752174/f4085b59-3b97-41d9-93a3-18b8b3b0b5ee)
 
 
