@@ -5,5 +5,6 @@
 ![facebook](https://github.com/sahithiperumalla/portfolio-website/assets/109752174/734e0738-6669-483b-b01a-fdfed984e213)
 ![linkedin](https://github.com/sahithiperumalla/portfolio-website/assets/109752174/f4085b59-3b97-41d9-93a3-18b8b3b0b5ee)
 ![sa](https://github.com/sahithiperumalla/portfolio-website/assets/109752174/16cfdbb3-1de6-4a49-bbb7-0c36fc3f041c)
+![twitter](https://github.com/sahithiperumalla/portfolio-website/assets/109752174/9651f0c8-46bc-4847-9ebc-a46ee5767d53)
 
 
